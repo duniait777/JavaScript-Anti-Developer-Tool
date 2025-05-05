@@ -32,3 +32,7 @@ Important Notes
 4.  This script is designed to be a deterrent rather than an impenetrable barrier.
 
 Would you like me to explain any specific part of this code in more detail or make any adjustments to the protection level?
+
+Best regards
+[Dunia IT](https://dunia.it.com/)
+
