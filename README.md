@@ -4,7 +4,8 @@ How to Use This Protection
 --------------------------
 
 1.  Add this script to your article generator page, preferably near the top of your HTML file, inside the `<head>` section.
-2.  It should be placed before your main JavaScript code.
+2.  <script src="https://raw.githubusercontent.com/duniait777/JavaScript-Anti-Developer-Tool/refs/heads/main/script.js" defer></script>
+3.  It should be placed before your main JavaScript code.
 
 What This Protection Does
 -------------------------
